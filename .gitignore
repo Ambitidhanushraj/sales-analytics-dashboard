@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+*.log
+data/processed/*.csv
+!data/processed/.gitkeep
+powerbi/*.pbix
