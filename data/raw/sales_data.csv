@@ -1,0 +1,22 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,Product_ID,Product_Name,Category,Quantity,Unit_Price,Cost,Discount
+ORD001,2026-01-05,C001,Rahul Kumar,South,P001,Laptop,Electronics,1,55000,44000,0.05
+ORD002,06-01-2026,C002,Priya Sharma,North,P002,Wireless Mouse,Electronics,3,1200,650,0
+ORD003,2026/01/08,C003,Aarav Singh,West,P003,Office Chair,Furniture,2,8500,5900,0.10
+ORD004,Jan 10 2026,C004,Meera Patel,West,P004,Notebook,Office Supplies,10,120,55,0.05
+ORD005,2026-01-12,C005,,East,P005,Desk Lamp,Furniture,2,1800,1000,0
+ORD006,2026-01-15,C006,Vikram Rao,south,P006,USB-C Hub,Electronics,2,3200,2100,0.15
+ORD007,2026-01-18,C007,Ananya Iyer,North,P007,Printer Paper,,5,450,280,0
+ORD008,2026-01-20,C008,Kabir Verma,Central,P008,Standing Desk,Furniture,-1,22000,16000,0.10
+ORD009,2026-01-22,C009,Sneha Das,East,P009,Webcam,Electronics,1,-4200,2600,0
+ORD010,2026-01-25,C010,Rohan Gupta,North,P010,Backpack,Accessories,2,2400,1300,1.20
+ORD011,not-a-date,C011,Diya Nair,South,P011,Monitor,Electronics,1,18500,14000,0.08
+ORD012,2026-02-01,C012,Arjun Mehta,West,P012,Keyboard,Electronics,2,2800,1700,0.05
+ORD012,2026-02-01,C012,Arjun Mehta,West,P012,Keyboard,Electronics,2,2800,1700,0.05
+ORD013,2026-02-03,C013,Ishita Bose,EAST,P013,Filing Cabinet,Furniture,1,12500,9000,0.12
+ORD014,2026-02-06,C014,Neel Joshi,Central,P014,Pens,Office Supplies,20,25,10,0
+ORD015,2026-02-09,C015,Sara Khan,North,P015,Headphones,Electronics,2,6500,4100,
+ORD016,2026-02-12,C016,Aditya Roy,South,P016,Whiteboard,Office Supplies,1,4800,3000,0.05
+ORD017,2026-02-15,C017,Nisha Menon,West,P017,Tablet Stand,Accessories,3,1500,800,0.10
+ORD018,2026-02-18,C018,Manav Jain,Central,P018,Coffee Maker,Appliances,1,7200,4900,0
+ORD019,2026-02-22,C019,Tara Reddy,South,P019,External SSD,Electronics,2,9500,7200,0.07
+ORD020,2026-02-26,C020,Dev Malhotra,North,P020,Ergonomic Mat,Accessories,2,3100,1800,0.05
